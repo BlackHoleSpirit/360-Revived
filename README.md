@@ -19,6 +19,7 @@ You can download the latest build **[here](https://github.com/BlackHoleSpirit/36
 ## Features
 
 * ✅ TU19 Tutorial World
+* ✅ Classic World Size set to Default
 * ✅ Festive Mash-up Pack
 * ✅ Summer of Arcade Skin Pack
 * ✅ Xbox 360 Edition UI
