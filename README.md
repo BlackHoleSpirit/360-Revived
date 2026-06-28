@@ -14,7 +14,7 @@ If you encounter any issues or bugs, report them at the official **[Discord](htt
 
 ## Downloads
 
-You can download the latest build from **[GoFile](https://gofile.io/d/turaXG)**.
+You can download the latest build **[here](https://github.com/BlackHoleSpirit/360-Revived/releases/tag/nightly)**.
 
 ## Features
 
